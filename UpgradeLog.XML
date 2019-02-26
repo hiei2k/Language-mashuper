@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="English MashUpper">
+</Property><Property Name="方案檔" Value="D:\My Document\Visual Studio 2010\Projects\一切語言藏 廣告英文版SRC\關鍵背單字\English MashUpper.sln">
+</Property><Property Name="Date" Value="2011年2月2日">
+</Property><Property Name="Time" Value="上午 11:08">
+</Property></Properties><Event ErrorLevel="0" Project="English MashUpper" Source="English MashUpper.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="English MashUpper" Source="English MashUpper.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="English MashUpper.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="English MashUpper.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="English MashUpper" Source="app.config" Description="檔案已成功轉換。所有 &lt;supportedRuntime&gt; 和 &lt;requiredRuntime&gt; 標記都已移除，以使用 Visual Studio 2005 建置和執行專案。">
+</Event><Event ErrorLevel="3" Project="English MashUpper" Source="app.config" Description="Converted">
+</Event></UpgradeLog>
